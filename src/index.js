@@ -5,7 +5,7 @@ import "./index.css";
 import reportWebVitals from "./reportWebVitals";
 
 // ---- Configure the React project with Amplify resources
-import Amplify from "aws-amplify";
+import { Amplify } from "aws-amplify";
 import config from "./aws-exports";
 Amplify.configure(config);
 // -------------------------------------------------------
