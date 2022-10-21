@@ -1,7 +1,10 @@
 {
   "name": "amplyfyapp",
   "version": "0.1.0",
+  "description": "React app example for tutorial AWS Amplify",
   "private": true,
+  "author": "jonathanludena",
+  "repository": "https://github.com/jonathanludena/amplifyapp.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
